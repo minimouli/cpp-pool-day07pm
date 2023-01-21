@@ -1,6 +1,6 @@
 {
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "name": "@minimouli/cpp-pool-day07pm",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
@@ -22,7 +22,9 @@
   },
   "license": "MIT",
   "files": [
-    "./dist"
+    "./dist",
+    "./res",
+    "moulinette.json"
   ],
   "dependencies": {
     "@minimouli/framework": "^2.0.3",
